@@ -361,5 +361,4 @@ This shows that, for those requests on that data and cluster, responses were fas
 -------------
 <p align="center">
    <strong>Designed and developed by Ayush</strong><br>
-    <sub>HROne Software Engineer Trainee Assignment</sub>
 </p>
